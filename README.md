@@ -7,7 +7,7 @@
 
 ---
 
-# PotentielUp-Automation
+
 Portfolio Digital Process Automation
 
  
@@ -33,7 +33,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 ## 🚀 Projets Phares (Case Studies)
 
 ### 📈 1. Lead Conversion Engine (Secteur Design) 
-### 📈 1. Lead Conversion Engine
+
 [![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)]( https://potentielup.github.io/Lead-Conversion-Engine-for-a-designer/)
  
 
