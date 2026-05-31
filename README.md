@@ -49,6 +49,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 [![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Student-LifeCycle-and-Data-Analytics/) 
 
+
 **Le Problème :** Saisie manuelle fastidieuse des apprenants et absence de visibilité sur les tendances de formation.
 **La Solution :** Automatisation complète du tunnel d'inscription :
 - **Flux :** Inscription automatique des apprenants dans la base de données sans intervention humaine.
@@ -57,7 +58,8 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 ### 🧠 3. AI-Powered Pedagogical Architect (EdTech)
 
- [![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Plateforme-aide-a-l-etude-avec-IA/)
+
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Plateforme-aide-a-l-etude-avec-IA/)
  
 **Le Problème :** La difficulté pour les apprenants et formateurs de structurer rapidement des supports de cours complexes.
 **La Solution :** Une plateforme d'IA spécialisée dans l'ingénierie pédagogique :
