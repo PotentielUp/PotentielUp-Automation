@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="lien_vers_ta_photo.jpg" width="150" style="border-radius: 50%;">
+  <h1>Salut ! Je suis Preuve MOUELE 👋</h1>
+  <p><strong>Expert en Digital Process Automation & IA</strong></p>
+  <p>J'aide les entreprises à gagner du temps en supprimant leurs tâches répétitives.</p>
+</div>
+
+---
+
 # PotentielUp-Automation
 Portfolio Digital Process Automation
 
