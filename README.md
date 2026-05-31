@@ -33,7 +33,9 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 ## 🚀 Projets Phares (Case Studies)
 
 ### 📈 1. Lead Conversion Engine (Secteur Design) 
-! [ https://potentielup.github.io/Lead-Conversion-Engine-for-a-designer/ ]
+### 📈 1. Lead Conversion Engine
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)]( https://potentielup.github.io/Lead-Conversion-Engine-for-a-designer/)
+ 
 
 **Le Problème :** Gestion manuelle des prospects, pertes d'opportunités par manque de relance, dispersion des informations.
 **La Solution :** Mise en place d'un écosystème automatisé :
