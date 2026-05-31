@@ -56,6 +56,8 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 **🎯 Impact :** Élimination des erreurs de saisie et prise de décisions stratégiques basées sur des données réelles pour optimiser l'offre commerciale.
 
 ### 🧠 3. AI-Powered Pedagogical Architect (EdTech)
+
+ [![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Plateforme-aide-a-l-etude-avec-IA/)
 **Le Problème :** La difficulté pour les apprenants et formateurs de structurer rapidement des supports de cours complexes.
 **La Solution :** Une plateforme d'IA spécialisée dans l'ingénierie pédagogique :
 - **Analyse :** Upload de documents ➔ Analyse contextuelle par l'IA.
