@@ -23,7 +23,8 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 ## 🚀 Projets Phares (Case Studies)
 
-### 📈 1. Lead Conversion Engine (Secteur Design) [ https://potentielup.github.io/Lead-Conversion-Engine-for-a-designer/ ]
+### 📈 1. Lead Conversion Engine (Secteur Design) 
+! [ https://potentielup.github.io/Lead-Conversion-Engine-for-a-designer/ ]
 **Le Problème :** Gestion manuelle des prospects, pertes d'opportunités par manque de relance, dispersion des informations.
 **La Solution :** Mise en place d'un écosystème automatisé :
 - **Capture :** Formulaire intelligent ➔ Base de données qualifiée.
@@ -32,7 +33,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Pilotage :** CRM personnalisé avec pipeline visuel (`Prospect` ➔ `En discussion` ➔ `Client`).
 **🎯 Impact :** Gain de temps massif, zéro oubli de relance, et une image professionnelle renforcée dès le premier contact.
 
-### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) [ https://potentielup.github.io/Student-LifeStyle-and-Data-Analytics/ ]
+### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) ! [ https://potentielup.github.io/Student-LifeStyle-and-Data-Analytics/ ]
 **Le Problème :** Saisie manuelle fastidieuse des apprenants et absence de visibilité sur les tendances de formation.
 **La Solution :** Automatisation complète du tunnel d'inscription :
 - **Flux :** Inscription automatique des apprenants dans la base de données sans intervention humaine.
