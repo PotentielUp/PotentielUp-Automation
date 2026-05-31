@@ -43,7 +43,10 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Pilotage :** CRM personnalisé avec pipeline visuel (`Prospect` ➔ `En discussion` ➔ `Client`).
 **🎯 Impact :** Gain de temps massif, zéro oubli de relance, et une image professionnelle renforcée dès le premier contact.
 
-### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) ! [ https://potentielup.github.io/Student-LifeStyle-and-Data-Analytics/ ]
+### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) 
+
+! [ https://potentielup.github.io/Student-LifeCycle-and-Data-Analytics/ ]
+
 **Le Problème :** Saisie manuelle fastidieuse des apprenants et absence de visibilité sur les tendances de formation.
 **La Solution :** Automatisation complète du tunnel d'inscription :
 - **Flux :** Inscription automatique des apprenants dans la base de données sans intervention humaine.
