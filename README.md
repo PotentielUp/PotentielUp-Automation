@@ -47,7 +47,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 ### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) 
 
-! [ https://potentielup.github.io/Student-LifeCycle-and-Data-Analytics/ ] 
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Student-LifeCycle-and-Data-Analytics/) 
 
 **Le Problème :** Saisie manuelle fastidieuse des apprenants et absence de visibilité sur les tendances de formation.
 **La Solution :** Automatisation complète du tunnel d'inscription :
