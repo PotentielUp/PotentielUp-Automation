@@ -77,8 +77,8 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Automation :** Make.com  
 - **Data & CRM :** Airtable / Google Sheets
 - **AI Frameworks :** OpenAI API /Ollama /Make AI Provider
-- **Langages :** Python
-- **Languages :** Python 
+- **Language :** Python
+
 ---
 
 ## 📩 Travaillons ensemble !
@@ -86,7 +86,8 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 Vous voulez libérer vos équipes des tâches répétitives ou intégrer l'IA dans vos processus ?
 
 
-- **Email :** efficiencypot@gmail.com 
+
 - **Calendly :** [Lien pour prendre RDV](calendly.com/efficiencypot)
+-[![Me contacter par WhatsApp](https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge)](+242067127876)  
 
 *« L'automatisation n'est pas là pour remplacer l'humain, mais pour lui permettre de se concentrer sur ce qui a réellement de la valeur. »*
