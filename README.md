@@ -61,7 +61,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 ### 🧠 3. AI-Powered Pedagogical Architect (EdTech)
 
 
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Plateforme-aide-a-l-etude-avec-IA/)
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)](https://potentielup.github.io/Plateforme-d-aide-a-l-apprentissage/)
  
 **Le Problème :** La difficulté pour les apprenants et formateurs de structurer rapidement des supports de cours complexes.
 **La Solution :** Une plateforme d'IA spécialisée dans l'ingénierie pédagogique :
