@@ -43,6 +43,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Engagement :** Envoi d'emails de bienvenue personnalisés selon le profil du client (Segmentation dynamique).
 - **Rétention :** Système de relances automatiques basées sur des conditions temporelles précises.
 - **Pilotage :** CRM personnalisé avec pipeline visuel (`Prospect` ➔ `En discussion` ➔ `Client`).
+ 
 **🎯 Impact :** Gain de temps massif, zéro oubli de relance, et une image professionnelle renforcée dès le premier contact.
 
 ### 🎓 2. Student Lifecycle & Data Analytics (Secteur Formation) 
@@ -54,6 +55,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 **La Solution :** Automatisation complète du tunnel d'inscription :
 - **Flux :** Inscription automatique des apprenants dans la base de données sans intervention humaine.
 - **Intelligence :** Création de dashboards d'analyse pour identifier les formations les plus demandées et les profils types.
+ 
 **🎯 Impact :** Élimination des erreurs de saisie et prise de décisions stratégiques basées sur des données réelles pour optimiser l'offre commerciale.
 
 ### 🧠 3. AI-Powered Pedagogical Architect (EdTech)
@@ -67,6 +69,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Production :** Génération automatique de plans de cours, restructuration de modules et création de fiches de révision optimisées.
 - **Précision :** L'IA est contrainte par le document source pour garantir l'exactitude des notions.
 - **🚧 En cours :** Intégration d'un chatbot interactif pour un tutorat personnalisé et une exploration dynamique des cours.
+
 **🎯 Impact :** Transformation d'un contenu brut en un parcours d'apprentissage structuré en quelques secondes.
 
 ---
@@ -88,6 +91,6 @@ Vous voulez libérer vos équipes des tâches répétitives ou intégrer l'IA da
 
 
 - **Calendly :** [Lien pour prendre RDV](calendly.com/efficiencypot)
--[![Me contacter par WhatsApp](https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge)](+242067127876)  
+  
 
 *« L'automatisation n'est pas là pour remplacer l'humain, mais pour lui permettre de se concentrer sur ce qui a réellement de la valeur. »*
