@@ -75,8 +75,9 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 ## 🧰 Stack Technique
 
 - **Automation :** Make.com  
-- **Data & CRM :** [Airtable / Google Sheets
+- **Data & CRM :** Airtable / Google Sheets
 - **AI Frameworks :** OpenAI API /Ollama /Make AI Provider
+- **Langages :** Python
 - **Languages :** Python 
 ---
 
