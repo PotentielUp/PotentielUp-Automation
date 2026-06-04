@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Image_profil.jpg" width="150" style="border-radius: 50%;">
+  <img src="images/edited-photo (2).png" width="150" style="border-radius: 50%;">
   <h1>Salut ! Je suis Preuve MOUELE 👋</h1>
   <p><strong>Consultant en Digital Process Automation & IA</strong></p>
   <p>J'aide les entreprises à gagner du temps en supprimant leurs tâches répétitives.</p>
