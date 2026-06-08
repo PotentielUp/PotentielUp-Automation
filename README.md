@@ -30,7 +30,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 ---
 
-## 🚀 Projets Phares (Case Studies)
+## 🚀 Quelques projets (Case Studies)
 
 ### 📈 1. Lead Conversion Engine (Secteur Design) 
 
@@ -53,7 +53,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 **Le Problème :** Saisie manuelle fastidieuse des apprenants et absence de visibilité sur les tendances de formation.
 **La Solution :** Automatisation complète du tunnel d'inscription :
-- **Flux :** Inscription automatique des apprenants dans la base de données sans intervention humaine.
+- **Flux :** Inscription automatique des apprenants dans la base de données, organisation des données dans la base.
 - **Intelligence :** Création de dashboards d'analyse pour identifier les formations les plus demandées et les profils types.
  
 **🎯 Impact :** Élimination des erreurs de saisie et prise de décisions stratégiques basées sur des données réelles pour optimiser l'offre commerciale.
