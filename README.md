@@ -56,7 +56,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Flux :** Inscription automatique des apprenants dans la base de données, organisation des données dans la base.
 - **Intelligence :** Création de dashboards d'analyse pour identifier les formations les plus demandées et les profils types.
  
-**🎯 Impact :** Élimination des erreurs de saisie et prise de décisions stratégiques basées sur des données réelles pour optimiser l'offre commerciale.
+**🎯 Impact :** Élimination des erreurs de saisie et prise de décisions stratégiques basées sur des données réelles pour optimiser l'offre.
 
 ### 🧠 3. AI-Powered Pedagogical Architect (EdTech)
 
@@ -77,7 +77,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 
 ## 🧰 Stack Technique
 
-- **Automation :** Make.com  
+- **Automation :** Make.com/ Airtable Automation  
 - **Data & CRM :** Airtable / Google Sheets
 - **AI Frameworks :** OpenAI API /Ollama /Make AI Provider
 - **Language :** Python
@@ -90,7 +90,7 @@ Vous voulez libérer vos équipes des tâches répétitives ou intégrer l'IA da
 
 
 
-- **Calendly :** [Lien pour prendre RDV](calendly.com/efficiencypot)
+- **Calendly :** [Prendre RDV](calendly.com/efficiencypot)
   
 
 *« L'automatisation n'est pas là pour remplacer l'humain, mais pour lui permettre de se concentrer sur ce qui nécessite vraiment son intervention. »*
