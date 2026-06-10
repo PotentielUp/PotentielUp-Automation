@@ -93,4 +93,4 @@ Vous voulez libérer vos équipes des tâches répétitives ou intégrer l'IA da
 - **Calendly :** [Lien pour prendre RDV](calendly.com/efficiencypot)
   
 
-*« L'automatisation n'est pas là pour remplacer l'humain, mais pour lui permettre de se concentrer sur ce qui a réellement de la valeur. »*
+*« L'automatisation n'est pas là pour remplacer l'humain, mais pour lui permettre de se concentrer sur ce qui nécessite vraiment son intervention. »*
