@@ -68,7 +68,7 @@ Je suis spécialisé dans l'optimisation des flux de travail et l'intégration d
 - **Analyse :** Upload de documents ➔ Analyse contextuelle par l'IA.
 - **Production :** Génération automatique de plans de cours, restructuration de modules et création de fiches de révision optimisées.
 - **Précision :** L'IA est contrainte par le document source pour garantir l'exactitude des notions.
-- **🚧 En cours :** Intégration d'un chatbot interactif pour un tutorat personnalisé et une exploration dynamique des cours.
+- **Agent conversationnel (Tuteur IA):** Intégration d'un chatbot interactif pour un tutorat personnalisé et une exploration dynamique des cours.
 
 **🎯 Impact :** Transformation d'un contenu brut en un parcours d'apprentissage structuré en quelques secondes.
 
